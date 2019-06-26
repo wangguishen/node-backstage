@@ -9,7 +9,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var router = require('./routes/router');
 
-// 生成 express 实例
+// 生成 express 实例 
 var app = express();
 
 // 设置模板引擎
